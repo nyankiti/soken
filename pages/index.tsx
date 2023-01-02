@@ -25,7 +25,7 @@ const Home: NextPage = () => {
               return (
                 <li
                   key={i}
-                  className="my-2 flex flex-col items-center md:flex-row"
+                  className="my-2 flex flex-col md:flex-row md:items-center"
                 >
                   <div className="whitespace-nowrap p-2 font-bold text-gray-900">
                     <a
