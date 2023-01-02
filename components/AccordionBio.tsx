@@ -64,9 +64,7 @@ const AccordionBio = () => {
                 />
               </Disclosure.Button>
               <Disclosure.Panel className="px-4 pt-4 pb-2 text-sm text-gray-500">
-                Web周りの技術全般、機械学習・統計、web3など、好奇心の赴くままに楽しく学んでいます。学部時代(応用化学専攻)の経験より、物理化学も興味の対象内。
-                <br />
-                機械学習・統計、web3については素人レベル。とりあえずKaggleに挑戦したいと思っている。
+                Web周りの技術全般、機械学習・統計などを、好奇心の赴くままに楽しく学んでいます。学部時代(応用化学専攻)の経験より、物理化学も興味の対象内。
               </Disclosure.Panel>
             </>
           )}
@@ -88,7 +86,7 @@ const AccordionBio = () => {
                     <tr>
                       <td>2019年</td>
                       <td>6月</td>
-                      <td>実用英語技能検定順一級</td>
+                      <td>実用英語技能検定準一級</td>
                     </tr>
                     <tr>
                       <td>2020年</td>
